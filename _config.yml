@@ -17,8 +17,8 @@ title: Mircous
 email: kio.juju@mail.ru
 description: >- # this means to ignore newlines until "baseurl:"
   mircous
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "mircous" # the subpath of your site, e.g. /blog
+url: "mircous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  Mircous
 
